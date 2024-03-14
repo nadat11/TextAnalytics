@@ -8,5 +8,3 @@ This pull request solves #2
 - A description of what the sentiment number is has been added
 
 ### Mentions
-
-Person responsible for reviewing: @LaloCo
