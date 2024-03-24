@@ -1,3 +1,12 @@
+Adding code `var PropertyName = "City"`
+``` python
+message="One of Python's strengths is its diverse community."
+print(message)
+nostarch_url='https://nostrarch.com'
+print(nostarch_url.removeprefix('https://'))
+```
+
+
 Android | iOS | Windows
 --- | :---: | ---:
 medium App for Android | Medium App for iOS | Medium App for Windows
@@ -10,6 +19,8 @@ abc, deg | hjk, lmn | opq,rsty
 Just a _**test text**_ for markdown on _GitHub_ files.
 
 > "Quoted message"
+
+[Note taking](https://www.notion.so/)
 
 # Header 1
 
